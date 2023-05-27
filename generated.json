@@ -1,0 +1,21 @@
+{
+    "languageserver": {
+        "cargoLocks": null,
+        "date": "2023-04-25",
+        "extract": null,
+        "name": "languageserver",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "1e71561a41ef59126273f16bbb466c0b30a2aa64",
+            "sha256": "sha256-bxPbthcEzn3tQW9cCZmw5fh5veAQc6TxRaXLfM9DgW8=",
+            "type": "git",
+            "url": "https://github.com/REditorSupport/languageserver"
+        },
+        "version": "1e71561a41ef59126273f16bbb466c0b30a2aa64"
+    }
+}

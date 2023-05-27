@@ -1,0 +1,3 @@
+[languageserver]
+src.git = "https://github.com/REditorSupport/languageserver"
+fetch.git = "https://github.com/REditorSupport/languageserver"

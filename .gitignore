@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.lsp_symlink
+.venv
+.virtual_documents
+*result*
+.direnv
+.R*
